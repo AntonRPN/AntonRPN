@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, Soy Anton</h1>
+<h3 align="center">Soy un Ingeniero Petrolero apasionado por la programación</h3>
 
-<!--
-**AntonRPN/AntonRPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Actualmente trabajo **en un negocio familiar**
 
-Here are some ideas to get you started:
+- Escríbeme **@AntonRPN**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Soy aprendiz autodidacta **de Python**
+
+- Trabajo como freenlace **para diferentes empresas**
+
+<h3 align="left">Contacta con migo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anton poot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton poot" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languajes y Habilidades:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+- **Liderazgo**
+- **Trabajo en equipo**
+- **Disciplina**
+- **Responzabilidad**
